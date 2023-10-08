@@ -126,7 +126,7 @@ const en: Language = {
                 orderNow: "Order Now",
                 descriptions: {
                     standard: "Our standard virtual servers run on AMD Epyc MILAN CPUs which clock to 3.7GHz. These servers are perfect for running general purpose applications like websites, databases and more. ",
-                    performance: "Our performance virtual servers runs on high performance AMD Ryzen 5950x CPUs which clock to 4.9GHz. These servers are perfect for running high performance applications like game servers. ",
+                    performance: "Our performance virtual servers runs on high performance AMD Ryzen 5900x CPUs which clock to 4.8GHz. These servers are perfect for running high performance applications like game servers. ",
                 },
             },
             speedIX: {

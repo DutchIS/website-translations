@@ -1,6 +1,8 @@
+import type { DedicatedServers, Footer, Header, Home, VirtualServers, privacyPolicy, termsOfService } from "./website";
 import en from "./translations/en";
 import nl from "./translations/nl";
-import type { DedicatedServers, Footer, Header, Home, VirtualServers, privacyPolicy, termsOfService } from "./website";
+import cn from "./translations/cn";
+import de from "./translations/de";
 
 export interface Language {
     website: {
@@ -14,7 +16,20 @@ export interface Language {
     }
 }
 
+export const domainLanguages = {
+    "dutchis.nl": "nl-NL",
+    "dutchis.be": "nl-NL",
+    "dutchis.de": "de-DE",
+    "dutchis.cn": "cn-CN",
+    "dutchis.sg": "en-US",
+    "dutchis.net": "en-US",
+    "dutchis.com": "en-US",
+    "dutchis.co.uk": "en-US",
+}
+
 export const languages = {
     "en-US": en,
-    "nl-NL": nl
+    "nl-NL": nl,
+    "cn-CN": cn,
+    "de-DE": de,
 }

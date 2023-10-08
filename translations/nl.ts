@@ -126,7 +126,7 @@ const nl: Language = {
                 orderNow: "Bestel direct",
                 descriptions: {
                     standard: "Onze standaard virtuele servers draaien op AMD Epyc MILAN CPU's met een kloksnelheid van 3,7 GHz. Deze servers zijn perfect voor het draaien van algemene diensten's zoals websites, databases en meer.",
-                    performance: "Onze performance virtuele servers draaien op super snelle AMD Ryzen 5950x CPU's met een kloksnelheid van 4,9 GHz. Deze servers zijn perfect voor het uitvoeren van krachtig vereisende applicaties zoals game servers.",
+                    performance: "Onze performance virtuele servers draaien op super snelle AMD Ryzen 5900x CPU's met een kloksnelheid van 4,8 GHz. Deze servers zijn perfect voor het uitvoeren van krachtig vereisende applicaties zoals game servers.",
                 },
             },
             speedIX: {
