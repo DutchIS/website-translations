@@ -105,7 +105,7 @@ const nl: Language = {
                 callToAction: "Start vandaag nog!",
             },
             dashboardOverview: {
-                title: "Simpel maar krachtige bedening",
+                title: "Simpel maar krachtige bediening",
                 description: "Beheer uw virtuele server vanaf een krachtig dashboard met alle functies die u mag verwachten.",
                 overview: "Overzicht",
                 overviewAlt: "De overzicht pagina van een virtuele server",
